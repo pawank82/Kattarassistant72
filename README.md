@@ -2,10 +2,10 @@
 
 
 <p align="center">
-<br><b> 𝗞𝗛𝗨𝗦𝗛𝗜𓆩🇽𓆪𝗠𝗨𝗦𝗜𝗖
+<br><b> 𓆩𝙆𝙖𝙩𝙩𝙖𝙧 ✘ 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩𓆪
 </b><br>
 </p>
-<p align="center"><a href="https://t.me/BRANDED_LINK"><img src="https://te.legra.ph/file/6a4ac076ff159bdcf9656.jpg"></a></p>
+<p align="center"><a href="https://t.me/BRANDED_LINK"><img src="https://graph.org/file/f9dd7ae04c0ac90a50dae.png"></a></p>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
