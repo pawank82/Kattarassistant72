@@ -10,7 +10,7 @@
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=Khushi+play+music+on+telegram+voice+chat+feature;Managed+by+Branded+King%E2%9D%A4%EF%B8%8F"> 
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=420&lines=𓆩𝙆𝙖𝙩𝙩𝙖+✘+𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩𓆪+on+telegram+voice+chat+feature;Managed+by+KIT+KAT+NIKET+RAWAT❤️🥀%E2%9D%A4%EF%B8%8F"> 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -51,8 +51,6 @@ bash start
 ### ᴄʀᴇᴅɪᴛs 💖
 - [WCGKING](https://github.com/WCGKING): Developer
 - [Branded](https://t.me/KHUSHI_MUSIC_82BOT): Test Bot
-
-[![ForTheBadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
