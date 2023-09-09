@@ -27,7 +27,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𓆩𝙆𝙖𝙩𝙩𝙖𝙧 ✘ 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩𓆪")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "").split())
+    map(int, getenv("OWNER_ID", "5152037285").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -42,6 +42,10 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
+SUPPORT_CHANNEL = getenv(
+    "SUPPORT_CHANNEL", "https://t.me/kit_kat_support_owners")
+SUPPORT_GROUP = getenv(
+    "SUPPORT_GROUP", "https://t.me/chating_telegram")
 
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 
@@ -99,11 +103,11 @@ clean = {}
 
 autoclean = []
 
-START_IMG_URL = getenv("START_IMG_URL", "")
+START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/bf7de4a34ef7c7edeae94.png")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "",
+    "https://graph.org/file/bf7de4a34ef7c7edeae94.png",
 )
 
 PLAYLIST_IMG_URL = getenv(
