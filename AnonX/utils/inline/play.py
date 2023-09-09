@@ -67,7 +67,8 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
             )
         ],
         [
-            
+            InlineKeyboardButton(
+                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/BRANDED_PAID_CC"
             )
         ],
     ]
