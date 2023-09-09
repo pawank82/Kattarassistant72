@@ -5,7 +5,7 @@
 <br><b> 𓆩𝙆𝙖𝙩𝙩𝙖𝙧 ✘ 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩𓆪
 </b><br>
 </p>
-<p align="center"><a href="https://t.me/"><img src="https://https://graph.org/file/f9dd7ae04c0ac90a50dae.png"></a></p>
+<p align="center"><a href="https://t.me/"><img src="https://https://graph.org/file/bf7de4a34ef7c7edeae94.png"></a></p>
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
