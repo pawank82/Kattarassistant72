@@ -27,7 +27,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 MUSIC_BOT_NAME = getenv("MUSIC_BOT_NAME", "𓆩𝙆𝙖𝙩𝙩𝙖𝙧 ✘ 𝘼𝙨𝙨𝙞𝙨𝙩𝙖𝙣𝙩𓆪")
 
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "5152037285").split())
+    map(int, getenv("OWNER_ID", "1984384176").split())
 )
 
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
@@ -61,7 +61,7 @@ YOUTUBE_DOWNLOAD_EDIT_SLEEP = int(getenv("YOUTUBE_EDIT_SLEEP", "5"))
 
 TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "6"))
 
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/niketrawat/Kattarassistant72")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/pawank82/Kattarassistant72")
 
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "bcfe26b0ebc3428882a0b5fb3e872473")
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "907c6a054c214005aeae1fd752273cc4")
