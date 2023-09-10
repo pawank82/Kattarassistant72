@@ -57,21 +57,7 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
                 text="▢", callback_data=f"ADMIN Stop|{chat_id}"
             ),
         ],
-        [
-            InlineKeyboardButton(
-                text="◉ ᴍᴇɴᴜ ",
-                callback_data=f"PanelMarkup {videoid}|{chat_id}",
-            ),
-            InlineKeyboardButton(
-                text="◉ ᴏᴡɴᴇʀ ", url=f"https://t.me/Mr_handsome1234"
-            )
-        ],
-        [
-            InlineKeyboardButton(
-                text=_["CLOSEMENU_BUTTON"], url=f"https://t.me/chating_masti"
-            )
-        ],
-    ]
+        
     return buttons
 
 
